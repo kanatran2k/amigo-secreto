@@ -4,7 +4,7 @@
 Challenge de Alura Latam 
 Por ✨✨ Nelson ✨✨  
 
-🚀 **[Probar en](https://kanatran2k.github.io/amigo-secreto/)**    
+🚀 **[Probar en GitHub Pages](https://kanatran2k.github.io/amigo-secreto/)**    
 
 Un juego para organizar tu propio amigo secreto. Puedes agregar los nombres de tus amigos, evitando que se repitan y el botón Sorteo mágicamente decide.  
 
@@ -25,3 +25,4 @@ Desarrollado *HTML, CSS y JavaScript*.
 
 ## ✨ Fun fact
 	¡Que tengas buena suerte!
+
